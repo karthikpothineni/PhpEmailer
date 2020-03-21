@@ -1,0 +1,4 @@
+{
+    "name": "venkatasriramkarthik/php-email",
+    "require": {"sendgrid/sendgrid": "~7"}
+}
